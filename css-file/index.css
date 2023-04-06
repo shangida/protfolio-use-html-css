@@ -1,0 +1,68 @@
+.frist-h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+}
+.second-h2{
+    font-family: 'Mr Dafoe', cursive;
+    font-size: 40px;
+    color: orange;
+}
+h3{
+    text-shadow: 3px 3px 5px #FF0000, -3px -3px 5px #b0b0f0;
+    font-style: italic;
+    font-size: 30px;
+    color: rgb(238, 218, 181);
+}
+.container{
+    display: flex;
+    
+}
+.half-width{
+    width: 70%;
+    padding: 40px;
+}
+.half-width img{
+    width: 100%;
+    height: 480px;
+}
+.btn{
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: white;
+    font-size: 18px;
+
+}
+.navbar{
+    display: flex;
+    background-color: rgb(218, 218, 244);
+    width: 99%;
+    height: 30px;
+    justify-content: space-between;
+    align-items: center;
+    position:relative;
+    padding: 20px;
+    
+    
+}
+.navbar ul li{
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 40px;
+    
+}
+.navbar img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+}
+.navbar ul li a {
+    text-decoration: none;
+    font-size: 30px;
+    color: black;
+}
+.navbar ul li a:hover{
+    color: brown;
+    font-size: 50px;
+
+}
