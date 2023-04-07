@@ -68,3 +68,9 @@ h3{
     font-style: italic;
     text-align: justify;
 }
+.boder1{
+    border-left: 7px solid tomato;
+}
+.boder2{
+    border-left: 7px solid blue;
+}
